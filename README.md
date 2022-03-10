@@ -1,1 +1,1 @@
-# OSU-CS161-Winter-2021
+# OSU CS161 Winter 2021
